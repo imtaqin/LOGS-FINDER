@@ -1,0 +1,19 @@
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\bin\Release\net8.0-windows\SHELL FINDER.exe
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\bin\Release\net8.0-windows\SHELL FINDER.deps.json
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\bin\Release\net8.0-windows\SHELL FINDER.runtimeconfig.json
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\bin\Release\net8.0-windows\SHELL FINDER.dll
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\bin\Release\net8.0-windows\SHELL FINDER.pdb
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\obj\Release\net8.0-windows\SHELL FINDER.csproj.AssemblyReference.cache
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\obj\Release\net8.0-windows\LogsFinder.Form1.resources
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\obj\Release\net8.0-windows\SHELL FINDER.csproj.GenerateResource.cache
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\obj\Release\net8.0-windows\SHELL FINDER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\obj\Release\net8.0-windows\SHELL FINDER.AssemblyInfoInputs.cache
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\obj\Release\net8.0-windows\SHELL FINDER.AssemblyInfo.cs
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\obj\Release\net8.0-windows\SHELL FINDER.csproj.CoreCompileInputs.cache
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\obj\Release\net8.0-windows\SHELL FI.6334FCF6.Up2Date
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\obj\Release\net8.0-windows\SHELL FINDER.dll
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\obj\Release\net8.0-windows\refint\SHELL FINDER.dll
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\obj\Release\net8.0-windows\SHELL FINDER.pdb
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\obj\Release\net8.0-windows\SHELL FINDER.genruntimeconfig.cache
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\obj\Release\net8.0-windows\ref\SHELL FINDER.dll

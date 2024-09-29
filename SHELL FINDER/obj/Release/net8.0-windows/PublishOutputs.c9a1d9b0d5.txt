@@ -1,0 +1,6 @@
+C:\Users\mumur\Documents\VB.NET BUILD\Logs Finder\SHELL FINDER.exe
+C:\Users\mumur\Documents\VB.NET BUILD\Logs Finder\SHELL FINDER.dll
+C:\Users\mumur\Documents\VB.NET BUILD\Logs Finder\SHELL FINDER.deps.json
+C:\Users\mumur\Documents\VB.NET BUILD\Logs Finder\SHELL FINDER.runtimeconfig.json
+C:\Users\mumur\Documents\VB.NET BUILD\Logs Finder\SHELL FINDER.pdb
+C:\Users\mumur\Documents\VB.NET BUILD\Logs Finder\Newtonsoft.Json.dll

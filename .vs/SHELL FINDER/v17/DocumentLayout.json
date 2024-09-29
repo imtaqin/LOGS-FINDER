@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mumur\\source\\repos\\SHELL FINDER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F606B16-D8A1-4E91-91BE-A545391F6840}|SHELL FINDER\\LOGS FINDER.csproj|c:\\users\\mumur\\source\\repos\\shell finder\\shell finder\\logs finder.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6F606B16-D8A1-4E91-91BE-A545391F6840}|SHELL FINDER\\LOGS FINDER.csproj|solutionrelative:shell finder\\logs finder.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F606B16-D8A1-4E91-91BE-A545391F6840}|SHELL FINDER\\SHELL FINDER.csproj|c:\\users\\mumur\\source\\repos\\shell finder\\shell finder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F606B16-D8A1-4E91-91BE-A545391F6840}|SHELL FINDER\\SHELL FINDER.csproj|solutionrelative:shell finder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F606B16-D8A1-4E91-91BE-A545391F6840}|SHELL FINDER\\SHELL FINDER.csproj|c:\\users\\mumur\\source\\repos\\shell finder\\shell finder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F606B16-D8A1-4E91-91BE-A545391F6840}|SHELL FINDER\\SHELL FINDER.csproj|solutionrelative:shell finder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F606B16-D8A1-4E91-91BE-A545391F6840}|SHELL FINDER\\SHELL FINDER.csproj|c:\\users\\mumur\\source\\repos\\shell finder\\shell finder\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F606B16-D8A1-4E91-91BE-A545391F6840}|SHELL FINDER\\SHELL FINDER.csproj|solutionrelative:shell finder\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F606B16-D8A1-4E91-91BE-A545391F6840}|SHELL FINDER\\SHELL FINDER.csproj|c:\\users\\mumur\\source\\repos\\shell finder\\shell finder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F606B16-D8A1-4E91-91BE-A545391F6840}|SHELL FINDER\\SHELL FINDER.csproj|solutionrelative:shell finder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SHELL FINDER",
+              "DocumentMoniker": "C:\\Users\\mumur\\source\\repos\\SHELL FINDER\\SHELL FINDER\\LOGS FINDER.csproj",
+              "RelativeDocumentMoniker": "SHELL FINDER\\LOGS FINDER.csproj",
+              "ToolTip": "C:\\Users\\mumur\\source\\repos\\SHELL FINDER\\SHELL FINDER\\LOGS FINDER.csproj",
+              "RelativeToolTip": "SHELL FINDER\\LOGS FINDER.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T18:25:10.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mumur\\source\\repos\\SHELL FINDER\\SHELL FINDER\\Program.cs",
+              "RelativeDocumentMoniker": "SHELL FINDER\\Program.cs",
+              "ToolTip": "C:\\Users\\mumur\\source\\repos\\SHELL FINDER\\SHELL FINDER\\Program.cs",
+              "RelativeToolTip": "SHELL FINDER\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T18:09:17.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mumur\\source\\repos\\SHELL FINDER\\SHELL FINDER\\Form1.cs",
+              "RelativeDocumentMoniker": "SHELL FINDER\\Form1.cs",
+              "ToolTip": "C:\\Users\\mumur\\source\\repos\\SHELL FINDER\\SHELL FINDER\\Form1.cs",
+              "RelativeToolTip": "SHELL FINDER\\Form1.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAArwJgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:33:12.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mumur\\source\\repos\\SHELL FINDER\\SHELL FINDER\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SHELL FINDER\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\mumur\\source\\repos\\SHELL FINDER\\SHELL FINDER\\Form1.Designer.cs",
+              "RelativeToolTip": "SHELL FINDER\\Form1.Designer.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAiwMwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:29:50.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mumur\\source\\repos\\SHELL FINDER\\SHELL FINDER\\Form1.cs",
+              "RelativeDocumentMoniker": "SHELL FINDER\\Form1.cs",
+              "ToolTip": "C:\\Users\\mumur\\source\\repos\\SHELL FINDER\\SHELL FINDER\\Form1.cs [Design]",
+              "RelativeToolTip": "SHELL FINDER\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:58:09.391Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

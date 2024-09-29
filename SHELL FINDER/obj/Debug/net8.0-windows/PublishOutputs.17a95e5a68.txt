@@ -1,0 +1,6 @@
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\bin\Release\net8.0-windows\publish\SHELL FINDER.exe
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\bin\Release\net8.0-windows\publish\SHELL FINDER.dll
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\bin\Release\net8.0-windows\publish\SHELL FINDER.deps.json
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\bin\Release\net8.0-windows\publish\SHELL FINDER.runtimeconfig.json
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\bin\Release\net8.0-windows\publish\SHELL FINDER.pdb
+C:\Users\mumur\source\repos\SHELL FINDER\SHELL FINDER\bin\Release\net8.0-windows\publish\Newtonsoft.Json.dll
